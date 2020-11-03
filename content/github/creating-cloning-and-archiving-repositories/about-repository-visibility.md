@@ -16,7 +16,7 @@ If {% data variables.product.product_location %} is not in private mode or behin
 {% elsif currentVersion == "github-ae@latest" %}
 Private repositories are only accessible to you, people you explicitly share access with, and, for organization repositories, certain organization members. Internal repositories are accessible to all enterprise members. For more information, see "[About internal repositories](#about-internal-repositories)."
 {% else %}
-Public repositories are accessible to everyone on the internet. Private repositories are only accessible to you, people you explicitly share access with, and, for organization repositories, certain organization members. Internal repositories are accessible to enterprise members. For more information, see "[About internal repositories](#about-internal-repositories)."
+Public repositories are accessible to everyone on the internet. Private repositories are only accessible to you, people you explicitly share access with, and, for organization repositories, certain organization members. Internal repositories are accessible to enterprise members. more information, see "[About internal repositories](#about-internal-repositories)."
 {% endif %}
 
 Organization owners always have access to every repository created in an organization. For more information, see "[Repository permission levels for an organization](/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization)."
